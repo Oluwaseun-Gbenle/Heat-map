@@ -1,0 +1,10 @@
+.bar:hover {
+    stroke: #000;
+  }
+  h2,h3{
+    font-family:Arial;
+    text-align:center;
+  }
+  #grid{
+    display:grid;
+  }
